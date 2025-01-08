@@ -50,4 +50,9 @@ This is the backend service for the **Form Builder Application**, built using **
    ```bash
    npm install
 
-   
+3. Configure Environment Variables:
+
+   ***Create a .env file in the root directory and add the following configuration:
+   ```plaintext
+   PORT=5000
+   MONGO_URI=your-mongodb-uri-here
