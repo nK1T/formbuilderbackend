@@ -44,3 +44,10 @@ This is the backend service for the **Form Builder Application**, built using **
    ```bash
    git clone <repository-url>
    cd <repository-directory>
+
+2. Install Dependencies:
+
+   ```bash
+   npm install
+
+   
